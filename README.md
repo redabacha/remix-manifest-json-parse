@@ -1,4 +1,4 @@
-run `npm install` and then `node ./benchmark.mjs`.
+run `npm install` and then `node ./benchmark.mjs $1` where the first argument is the number of test routes to create.
 results:
 
 1 route:
