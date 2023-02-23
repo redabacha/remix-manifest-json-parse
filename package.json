@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "dependencies": {
+    "mitata": "^0.1.6"
+  }
+}
